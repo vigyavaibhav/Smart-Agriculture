@@ -59,7 +59,8 @@ Decision Support for Farmers
 
 ### Dashboard
 
-<img width="245" height="145" alt="image" src="https://github.com/user-attachments/assets/2cfc1eb0-9487-44c1-8a28-37a4e68f82cc" />
+<img width="600" height="272" alt="Dashboard"
+src="https://github.com/user-attachments/assets/YOUR-GENERATED-ID" />
 
 ### Crop Advisor
 
