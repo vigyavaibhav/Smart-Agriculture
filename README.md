@@ -59,6 +59,9 @@ Decision Support for Farmers
 
 ### Dashboard
 
+<img width="785" height="589" alt="Vigya Vaibhav Dashboard"
+src="https://github.com/user-attachments/assets/19df23dd-e0b3-4e7a-bdb4-40bc7375fa8f" />
+
 <img width="600" height="272" alt="Dashboard"
 src="https://github.com/user-attachments/assets/YOUR-GENERATED-ID" />
 
